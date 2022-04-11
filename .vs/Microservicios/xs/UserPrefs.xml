@@ -1,4 +1,37 @@
 ﻿<Properties StartupConfiguration="{74FC092A-7B1B-404D-8420-7EAEDFBF87EA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Servicios.Api.Libreria/Core/Entities/BsonCollectionAttribute.cs">
+    <Files>
+      <File FileName="Servicios.Api.Libreria/Repository/MongoRepository.cs" Line="15" Column="49" />
+      <File FileName="Servicios.Api.Libreria/Controllers/LibreriaServicioController.cs" Line="46" Column="59" />
+      <File FileName="Servicios.Api.Libreria/Repository/IMongoRepository.cs" Line="13" Column="22" />
+      <File FileName="Servicios.Api.Libreria/Core/Entities/BsonCollectionAttribute.cs" Line="4" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microservicios" expanded="True">
+            <Node name="Servicios.Api.Libreria" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Core" expanded="True">
+                <Node name="Entities" expanded="True">
+                  <Node name="BsonCollectionAttribute.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Servicios.Api.Libreria PreferredExecutionTarget="/Applications/Brave Browser.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Servicios.Api.Libreria FirstBuild="True" PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
